@@ -12,6 +12,7 @@ Weather Map:
 
 Earthquake Map:
 [https://leafylyfe.github.io/leaflet-maps](https://github.com/leafylyfe/leaflet-maps.git)/earthquakes/
+
 Combined Map:
 [https://leafylyfe.github.io/leaflet-maps](https://github.com/leafylyfe/leaflet-maps.git)/combined/
 
