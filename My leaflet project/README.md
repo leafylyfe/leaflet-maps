@@ -8,11 +8,12 @@ This project hosts two Leaflet web maps on GitHub Pages:
 
 ## Links
 Weather Map:
-https://leafylyfe.github.io/leaflet-maps/weather/
+[https://leafylyfe.github.io/leaflet-maps](https://github.com/leafylyfe/leaflet-maps.git)/weather/
+
 Earthquake Map:
-https://leafylyfe.github.io/leaflet-maps/earthquakes/
+[https://leafylyfe.github.io/leaflet-maps](https://github.com/leafylyfe/leaflet-maps.git)/earthquakes/
 Combined Map:
-https://leafylyfe.github.io/leaflet-maps/combined/
+[https://leafylyfe.github.io/leaflet-maps](https://github.com/leafylyfe/leaflet-maps.git)/combined/
 
 ## Data Sources
 - Basemap: OpenStreetMap / CARTO Positron
