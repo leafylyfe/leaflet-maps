@@ -7,12 +7,10 @@ This project hosts two Leaflet web maps on GitHub Pages:
 - *Combined Map* — Bonus: Toggle between weather alerts and earthquake data.
 
 ## Links
--Weather Map:
+Weather Map:
 https://leafylyfe.github.io/leaflet-maps/weather/
-
 Earthquake Map:
 https://leafylyfe.github.io/leaflet-maps/earthquakes/
-
 Combined Map:
 https://leafylyfe.github.io/leaflet-maps/combined/
 
@@ -27,10 +25,3 @@ https://leafylyfe.github.io/leaflet-maps/combined/
 2. Settings → Pages → Deploy from branch → main → /(root).
 3. Visit: https://leafylyfe.github.io/My leaflet project/
 
-## Assignment Checklist
-- Weather map: ✅
-- Extreme/Minor alert colors: ✅
-- Basemap swap: ✅
-- Earthquake map w/ legend: ✅
-- README links: ✅
-- Bonus combined map: ✅
