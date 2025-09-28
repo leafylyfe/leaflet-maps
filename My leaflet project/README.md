@@ -15,7 +15,7 @@ This project hosts two Leaflet web maps on GitHub Pages:
 - Basemap: OpenStreetMap / CARTO Positron
 - Radar WMS: Iowa State Mesonet
 - NWS Alerts API
-- USGS Earthquakes (24h GeoJSON)
+- USGS Earthquakes
 
 ## Hosting on GitHub Pages
 1. Push this repo to GitHub.
