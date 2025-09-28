@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Recent Earthquakes (USGS)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+  <style>
+    html, body, #eqmap { height: 100%; width: 100%; margin: 0; }
+    .legend { background: white; padding: 8px 10px; line-height: 1.4; border: 1px solid #ccc; border-radius: 4px; }
+    .legend i { display: inline-block; width: 12px; height: 12px; margin-right: 6px; vertical-align: middle; border: 1px solid #333; }
+  </style>
+</head>
+<body>
+  <div id="eqmap"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="./earthquakes.js"></script>
+</body>
+</html>
