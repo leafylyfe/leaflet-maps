@@ -23,5 +23,5 @@ https://leafylyfe.github.io/leaflet-maps/combined/
 ## Hosting on GitHub Pages
 1. Push this repo to GitHub.
 2. Settings → Pages → Deploy from branch → main → /(root).
-3. Visit: https://leafylyfe.github.io/My leaflet project/
+3. Visit: https://leafylyfe.github.io/Myleafletproject/
 
