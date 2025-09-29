@@ -7,14 +7,12 @@ This project hosts two Leaflet web maps on GitHub Pages:
 - *Combined Map* — Bonus: Toggle between weather alerts and earthquake data.
 
 ## Links
-Weather Map:
-[https://leafylyfe.github.io/leaflet-maps]https://github.com/leafylyfe/leaflet-maps.git/weather/
 
-Earthquake Map:
-[https://leafylyfe.github.io/leaflet-maps]https://github.com/leafylyfe/leaflet-maps.git/earthquakes/
+https://leafylyfe.github.io/leaflet-maps/weather/
 
-Combined Map:
-[https://leafylyfe.github.io/leaflet-maps]https://github.com/leafylyfe/leaflet-maps.git/combined/
+https://leafylyfe.github.io/leaflet-maps/earthquakes/
+
+https://leafylyfe.github.io/leaflet-maps/combined/
 
 ## Data Sources
 - Basemap: OpenStreetMap / CARTO Positron
